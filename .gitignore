@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+lib/
+*.html
+*.pcapng
+*.pickle
